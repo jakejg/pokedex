@@ -1,0 +1,16 @@
+.pokecard {
+    border-radius: 10px;
+    background-color: rgb(201, 201, 201);
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    max-height: 250px;
+  }
+
+
+.pokecard-title {
+    color: rgb(34, 34, 179);
+}
+

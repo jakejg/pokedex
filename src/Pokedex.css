@@ -1,0 +1,16 @@
+
+.pokedex-body {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.pokedex-title {
+    text-align: center;
+}
+
+.pokedex-points{
+    text-align: center;
+}
